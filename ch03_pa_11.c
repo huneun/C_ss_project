@@ -2,9 +2,10 @@
 
 int main(){
 	
-	float won;
-	float exchangeRate;
-	float result;
+//	float won;
+//	float exchangeRate;
+//	float result; // 같은 타입은 한줄 선언  
+	float won, exchangeRate, result;
 	
 	printf("KRW? ");
 	scanf("%f", &won);
